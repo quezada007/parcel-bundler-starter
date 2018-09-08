@@ -5,7 +5,7 @@
 # Node Modules
 node_modules/
 
-# Destination Directory
+# Distribution Directory
 dist/
 
 # Logs
