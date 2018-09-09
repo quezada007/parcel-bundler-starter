@@ -4,3 +4,5 @@ import '../scss/main.scss';
 import { SayHelloModule } from "./modules/SayHelloModule";
 
 SayHelloModule.sayHello();
+
+let chido = 'chido'
