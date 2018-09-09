@@ -36,3 +36,11 @@ If you just want to compile SCSS and JS without running the watch or live reload
 ```
 npm run build
 ```
+
+### JavaScript Linting
+
+If you just want to lint your JavaScript, just run the following command:
+
+```
+npm run lint
+```
