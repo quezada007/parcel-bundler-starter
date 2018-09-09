@@ -6,7 +6,7 @@ Simple starter project using Parcel, SCSS, Babel and ESLint.
 * [Node.js](https://nodejs.org/en/) and NPM. (**Note:** NPM comes with Node.js)
 
 ### Build Tools Used
-* [Webpack](https://webpack.js.org/) - Module Bundler
+* [Parcel](https://parceljs.org/) - Module Bundler
 * [SASS](http://sass-lang.com/) - CSS Preprocessor
 * [PostCSS](https://postcss.org/) - A tool for transforming CSS with JavaScript
 * [ESLint](http://eslint.org/) - JavaScript Linting Utility
